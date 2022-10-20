@@ -1,0 +1,11 @@
+.editor-container {
+    display: flex;
+    flex-direction: row;
+
+    flex: 1;
+
+    justify-content: flex-start;
+
+    margin-left: 2%;
+    margin-right: 2%;
+}
