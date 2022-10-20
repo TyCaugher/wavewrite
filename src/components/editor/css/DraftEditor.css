@@ -1,0 +1,10 @@
+.draft-md-editor {
+    
+    flex: 1;
+
+    justify-content: flex-start;
+
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
